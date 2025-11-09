@@ -88,8 +88,10 @@ fun BusinessCard() {
                     Spacer(modifier = Modifier.height(12.dp))
 
                     Text(
-                        text = "DINGUEMNODJI YOUSSOUF",
+                        text = "D. YOUSSOUF DOUMDJE",
                         fontSize = 18.sp,
+                        //centre le texte
+
                         fontWeight = FontWeight.Bold,
                         color = Color.White
                     )
